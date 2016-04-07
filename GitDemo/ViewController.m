@@ -14,7 +14,7 @@
 
 @implementation ViewController
 
-NSString *username = @"dummyUserChanged";
+NSString *username = @"dummyUserChnged";
 
 - (void)viewDidLoad {
     [super viewDidLoad];
